@@ -3,6 +3,6 @@ The python file [K-Means.py](https://github.com/ishanbhandari-19/My-ML-Library/b
 For implementation, I have used [make_blobs](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.make_blobs.html) dataset from sklearn and compared my prediction with [sklearn K-Means](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html).
 ```python
 from sklearn.datasets import make_blobs # To import the dataset
-from sklearn.cluster import KMeans  # To import the sklearn's KMeans
+from sklearn.cluster import KMeans  # To import sklearn's KMeans
 ```
 
